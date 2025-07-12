@@ -1,0 +1,70 @@
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: white;
+
+}
+
+.navbar{
+    width:100%;
+    height: 80px;
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    gap: 99px;
+}
+
+.header-logo{
+    width: 60px;
+    height: 60px;
+}
+
+.header-menu{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.header-menu li a{
+    color: black;
+    font-size: 16px;
+}
+
+.header-contacts{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.header-contacts img{   
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.header-contacts li a{
+    color: black;
+    font-size: 16px;
+    vertical-align: 4px;
+}
+
+.btn1{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+

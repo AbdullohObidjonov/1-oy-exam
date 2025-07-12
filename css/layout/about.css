@@ -1,0 +1,120 @@
+
+
+.about{
+    width: 100%;
+    margin-top: 120px;
+    margin-bottom: 20px;
+}
+
+.about-text1{
+    color: black;
+    font-size: 44px;
+    text-align: center;
+}
+
+.about-text2{
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 24px;
+}
+
+.about-button{
+    font-size: 18px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 60px;
+    background-color: #1BB18C;
+    color: white;
+    width: 208px;
+    height: 44px;
+    cursor: pointer;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 35px;
+    align-items: center;
+}
+
+.cards{
+    width: 100%;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.card1 , .card2 , .card3{
+    width: 380px;
+    height: 220px;
+    padding-left: 20px;
+    padding-top: 20px;
+    position: relative;
+    box-shadow: 1px 1px 4px gray;
+}
+
+.card1 h2{
+    font-size: 36px;
+    color: black;
+}
+
+.card1 p{
+    line-height: 25px;
+    margin-top: 20px;
+    font-size: 16px;
+    color: black;
+}
+
+.mers{
+    width: 120px;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+.card2{
+    position: relative;
+}
+
+.card2 h2{
+    font-size: 36px;
+    color: black;
+}
+
+.card2 p{
+    line-height: 25px;
+    margin-top: 20px;
+    font-size: 16px;
+    color: black;
+}
+
+.red-car{
+    width: 180px;
+    position: absolute;
+    bottom: 0;
+    right: 20px;
+}
+
+.card3{
+    position: relative;
+}
+
+.card3 h2{
+    font-size: 36px;
+    color: black;
+}
+
+.card3 p{
+    line-height: 25px;
+    margin-top: 20px;
+    font-size: 16px;
+    color: black;
+}
+
+.money{
+    width: 222px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
